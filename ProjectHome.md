@@ -1,0 +1,1 @@
+A method for enabling a suite of applications across a network of possibly hostile computers where the apps disappear from the client immediately after executing
